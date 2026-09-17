@@ -1,2 +1,3 @@
 # 풋살 차기
-# INFP
+# MBTI = INFP
+# 혈액형 = A형
